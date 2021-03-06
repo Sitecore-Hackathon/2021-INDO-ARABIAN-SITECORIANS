@@ -1,0 +1,22 @@
+﻿@using Sitecore
+@using Sitecore.Data
+@using Sitecore.Data.Items
+@using Sitecore.Links
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+
+@{
+    Database db = Sitecore.Context.Database;
+    Item currentItem = Sitecore.Context.Item;
+    Sitecore.Collections.ChildList children = currentItem.GetChildren();
+}
+
+<div class="section animated-row" data-section="slide02">
+    <div class="section-inner">
+        <div class="row justify-content-center">
+            <div class="col-md-8 wide-col-laptop">
+                @Html.Sitecore().Field("Page Description")
+            </div>
+        </div>
+    </div>
+</div>

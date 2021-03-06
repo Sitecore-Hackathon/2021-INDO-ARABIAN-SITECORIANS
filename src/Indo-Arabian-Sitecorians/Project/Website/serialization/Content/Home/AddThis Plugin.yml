@@ -1,0 +1,20 @@
+﻿---
+ID: "4484c5ab-3fc3-47b0-afa4-a6cf6a74afd3"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "4216fc50-d0cd-480d-bdc7-b540171b29a2"
+Path: /sitecore/content/Home/AddThis Plugin
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "114cf8db-8620-49a5-977f-20f876e10835"
+      Hint: Page Summary
+      Value: Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210306T092149Z
+    - ID: "7e40a78c-764f-45af-b10c-b532a79cb66c"
+      Hint: Page Title
+      Value: AddThis Plugin

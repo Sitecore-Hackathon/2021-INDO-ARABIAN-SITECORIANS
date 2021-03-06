@@ -1,0 +1,22 @@
+﻿@using Sitecore
+@using Sitecore.Data
+@using Sitecore.Data.Items
+@using Sitecore.Links
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+
+@{
+    Database db = Sitecore.Context.Database;
+    Item currentItem = Sitecore.Context.Item;
+}
+
+<div class="section animated-row" data-section="slide01">
+    <div class="section-inner">
+        <div class="welcome-box">
+            <span class="welcome-first animate" data-animate="fadeInUp">Hello, welcome to</span>
+            <h1 class="welcome-title animate" data-animate="fadeInUp">@Html.Sitecore().Field("Page Title")</h1>
+            <p class="animate" data-animate="fadeInUp">@Html.Sitecore().Field("Page Summary")</p>
+            <div class="scroll-down next-section animate data-animate=" fadeInUp""><img src="Assets/images/mouse-scroll.png" alt=""><span>Scroll Down</span></div>
+        </div>
+    </div>
+</div>

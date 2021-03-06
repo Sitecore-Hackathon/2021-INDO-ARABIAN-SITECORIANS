@@ -1,0 +1,14 @@
+﻿---
+ID: "6c3b3b93-2459-47ce-8e6a-8dad3b592040"
+Parent: "4216fc50-d0cd-480d-bdc7-b540171b29a2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Website/Page Types/Page/Page Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210306T091222Z

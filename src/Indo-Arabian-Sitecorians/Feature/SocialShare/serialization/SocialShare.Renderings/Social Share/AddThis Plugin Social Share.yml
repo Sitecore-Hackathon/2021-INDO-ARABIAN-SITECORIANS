@@ -1,0 +1,21 @@
+﻿---
+ID: "d3c511ec-a631-45aa-b962-7da631ba3f44"
+Parent: "749e8be2-d563-44a6-9dd3-2bd3a92c6ca8"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Social Share/AddThis Plugin Social Share
+DB: master
+SharedFields:
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: SocialShare
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: IAS.Feature.SocialShare.Controllers.SocialShareController, IAS.Feature.SocialShare
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210306T065109Z

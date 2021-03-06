@@ -1,0 +1,24 @@
+﻿---
+ID: "d49e6c14-26cc-47aa-9b0f-5767511d06c3"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "4216fc50-d0cd-480d-bdc7-b540171b29a2"
+Path: /sitecore/content/Home/SXA Component
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "114cf8db-8620-49a5-977f-20f876e10835"
+      Hint: Page Summary
+      Value: Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210306T092149Z
+    - ID: "7e40a78c-764f-45af-b10c-b532a79cb66c"
+      Hint: Page Title
+      Value: SXA Component

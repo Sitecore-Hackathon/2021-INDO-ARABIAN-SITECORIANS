@@ -1,0 +1,14 @@
+﻿---
+ID: "47f597e1-053e-4b96-a4fd-b1e2b095d564"
+Parent: "3a1f0b65-ac64-4dd2-840a-0b6a012dfb3c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Social Share/Add This/Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210306T063714Z

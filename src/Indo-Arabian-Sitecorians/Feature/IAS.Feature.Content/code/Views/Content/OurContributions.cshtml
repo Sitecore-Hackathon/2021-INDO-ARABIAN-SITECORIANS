@@ -1,0 +1,42 @@
+﻿@using Sitecore
+@using Sitecore.Data
+@using Sitecore.Data.Items
+@using Sitecore.Links
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+
+@{
+    Database db = Sitecore.Context.Database;
+    Item currentItem = Sitecore.Context.Item;
+    Sitecore.Collections.ChildList children = currentItem.GetChildren();
+}
+
+<div class="section animated-row" data-section="slide02">
+    <div class="section-inner">
+        <div class="row justify-content-center">
+            <div class="col-md-8 wide-col-laptop">
+                <div class="title-block animate" data-animate="fadeInUp">
+                    <span>Contributions</span>
+                    <h2>What We Did?</h2>
+                </div>
+                <div class="services-section">
+                    <div class="services-list owl-carousel">
+                        @foreach (Item child in children)
+                        {
+                            string link = LinkManager.GetItemUrl(child);
+                            <div class="item animate" data-animate="fadeInUp">
+                                <a href="@link">
+                                    <div class="service-box">
+                                        <span class="service-icon"><i class="fa fa-bookmark" aria-hidden="true"></i></span>
+                                        <h3>@Html.Sitecore().Field("Page Title", child)</h3>
+                                        <p>@Html.Sitecore().Field("Page Summary", child)</p>
+                                    </div>
+                                </a>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

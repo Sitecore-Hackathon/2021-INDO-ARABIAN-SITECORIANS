@@ -1,0 +1,21 @@
+﻿---
+ID: "2aaf3f07-e266-414d-8441-b2012bd896d9"
+Parent: "d68f7de7-7eb1-456f-89bf-95647e2455fa"
+Template: "3a1f0b65-ac64-4dd2-840a-0b6a012dfb3c"
+Path: /sitecore/system/Modules/AddThis Plugin/AddThis Dashboard Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210306T063930Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c08053c3-d9c0-461d-8538-7e9c2694051a"
+      Hint: AddThis ID
+      Value: "ra-604318b5d30d9a1e"
