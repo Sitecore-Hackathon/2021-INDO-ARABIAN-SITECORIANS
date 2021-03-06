@@ -4,8 +4,9 @@
 ### INDO-ARABIAN SITECORIANS
 
 ## Category
-(1) Enhancement to the Sitecore Admin (XP) for Content Editors and Marketers
+Enhancement to the Sitecore Admin (XP) for Content Editors and Marketers
 
+(1) Quick Version Creator:
 ## Description
 
   - Flexibility while working with Content for Multi-lingual sites.
@@ -48,10 +49,35 @@ Using this tool, the Content Author can create a new language version of the sel
 - Select the Language version you want to copy the entire content from. Check Deep Copy if....
 Check Include Subitems, if you want to create language version for all the subitems under the selected item.
 
+(2) AddThis Plugin for Sitecore:
+## Description
 
+  - The use vase of sharing the pages on website on Social Media channels is very common. 
+  - Most of the teams create it manually s a .Net component or some teams by paid thirdparty plugins to give the authors/marketers the capability to share the content on Social Media.
 
+  - This tool provides the expected functionality but also powers the marketer's expectation by giving the analytics of which all URLs are shared, from which device it is shared, etc. 
+  
+  - For example: If there are some large no. of users from India sharing the content from your site, then India can be your hot market to target for in all the campaigns. 
 
+  
+## Video link
+⟹ [Replace this Video link](#video-link)
 
+## Pre-requisites and Dependencies
+
+⟹ For a plain vanilla Sitecore Instance, install the AddThis Plugin for Sitecore-1.0.zip and you are good to go.
+
+## Installation instructions
+⟹ Installation requires 2 simple steps:
+
+> - Install the AddThis Plugin for Sitecore-1.0.zip.
+> - Add the rendering "AddThis Plugin Social Share" under the path "/sitecore/layout/Renderings/Feature/Social Share/AddThis Plugin Social Share" on any page where you want the Social Share options with the placeholder (Ex. main) 
+
+### Configuration
+⟹ Please make sure you create the AddThis account and add the id or use the one which present for Demo purpose here - /sitecore/system/Modules/AddThis Plugin/AddThis Dashboard Details.
+
+## Usage instructions
+- Track all the activities on the Social Media sharing options here - https://www.addthis.com/dashboard#dashboard-analytics
 
 ## Comments
 If you'd like to make additional comments that is important for your module entry.
