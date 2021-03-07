@@ -30,11 +30,11 @@ Enhancement to the Sitecore Admin (XP) for Content Editors and Marketers
 > - Install an additional language version in a plain vanilla Sitecore instance.
 > - Install the package - IndoArabianLanguageVersionCopy-1.0.zip present in folder 
 
-
-
 ### Configuration
 ⟹ Please make sure AddFeatureVersionFromLanguage.config is present inside \App_Config\Include\Feature folder
 
+The tool looks like below:
+![QuickVersionCreator Screen](https://github.com/Sitecore-Hackathon/2021-INDO-ARABIAN-SITECORIANS/blob/main/QuickVersionGenerator.jpeg)
 
 ## Usage instructions
 - Create some Sample items under the Home item with default Content that will be created for English (en) version
@@ -80,7 +80,7 @@ Check Include Subitems, if you want to create language version for all the subit
 - Track all the activities on the Social Media sharing options here - https://www.addthis.com/dashboard#dashboard-analytics
 
 The Dasboard looks like below:
-![AddThis Dasboard](https://github.com/Sitecore-Hackathon/2021-INDO-ARABIAN-SITECORIANS/AddThis-Dashboard.png)
+![AddThis Dasboard](https://github.com/Sitecore-Hackathon/2021-INDO-ARABIAN-SITECORIANS/blob/main/AddThis%20Dashboard.png)
 
 ## Comments
 If you'd like to make additional comments that is important for your module entry.
