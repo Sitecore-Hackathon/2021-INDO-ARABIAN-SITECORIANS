@@ -18,7 +18,7 @@ Enhancement to the Sitecore Admin (XP) for Content Editors and Marketers
 
   
 ## Video link (It considers both: QuickVersionCreator & AddThis plugin)
-⟹ [https://bitbucket.org/CybRohan/video/src/master/IndoArabianSitecorians_Hackathon2021Contributions.mp4](#video-link)
+⟹ [The QuickVersionCreator Video](https://bitbucket.org/CybRohan/video/src/master/IndoArabianSitecorians_Hackathon2021Contributions.mp4)
 
 ## Pre-requisites and Dependencies
 
@@ -61,7 +61,7 @@ Check Include Subitems, if you want to create language version for all the subit
 
   
 ## Video link (It considers both: QuickVersionCreator & AddThis plugin)
-⟹ [https://bitbucket.org/CybRohan/video/src/master/IndoArabianSitecorians_Hackathon2021Contributions.mp4](#video-link)
+⟹ [The AddThis Plugin for Sitecore Video](https://bitbucket.org/CybRohan/video/src/master/IndoArabianSitecorians_Hackathon2021Contributions.mp4)
 
 ## Pre-requisites and Dependencies
 
