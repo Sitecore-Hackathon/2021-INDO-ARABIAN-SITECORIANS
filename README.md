@@ -17,8 +17,8 @@ Enhancement to the Sitecore Admin (XP) for Content Editors and Marketers
   - For example: If there are some large no. of Article/News Content Items already defined in an English Language (en-US) and the company decides to create a Spanish Language (es-US) version, creating language version for each item would be a time-consuming job as well as Powershell solution would not provide default content or non-technical feasibility. 
 
   
-## Video link
-⟹ [Replace this Video link](#video-link)
+## Video link (It considers both: QuickVersionCreator & AddThis plugin)
+⟹ [https://bitbucket.org/CybRohan/video/src/master/IndoArabianSitecorians_Hackathon2021Contributions.mp4](#video-link)
 
 ## Pre-requisites and Dependencies
 
@@ -60,8 +60,8 @@ Check Include Subitems, if you want to create language version for all the subit
   - For example: If there are some large no. of users from India sharing the content from your site, then India can be your hot market to target for in all the campaigns. 
 
   
-## Video link
-⟹ [Replace this Video link](#video-link)
+## Video link (It considers both: QuickVersionCreator & AddThis plugin)
+⟹ [https://bitbucket.org/CybRohan/video/src/master/IndoArabianSitecorians_Hackathon2021Contributions.mp4](#video-link)
 
 ## Pre-requisites and Dependencies
 
