@@ -79,5 +79,8 @@ Check Include Subitems, if you want to create language version for all the subit
 ## Usage instructions
 - Track all the activities on the Social Media sharing options here - https://www.addthis.com/dashboard#dashboard-analytics
 
+The Dasboard looks like below:
+![AddThis Dasboard](https://github.com/Sitecore-Hackathon/2021-INDO-ARABIAN-SITECORIANS/AddThis-Dashboard.png)
+
 ## Comments
 If you'd like to make additional comments that is important for your module entry.
